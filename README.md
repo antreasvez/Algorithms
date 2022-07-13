@@ -1,2 +1,2 @@
 # Algorithms
-🖥️ NTUA ECE Algorithms & amp;Complexity Course Exercises 
+🖥️ NTUA ECE Algorithms & Complexity Course Exercises 
